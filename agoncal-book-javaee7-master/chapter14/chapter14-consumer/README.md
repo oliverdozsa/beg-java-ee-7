@@ -1,4 +1,4 @@
-To run these examples you must have GlassFish running. Once the SAOP Wen Service is up and running you need to package your web service consumer with :
+To run these examples you must have GlassFish running. Once the SOAP Web Service is up and running you need to package your web service consumer with :
 
   > mvn package
 
